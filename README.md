@@ -19,3 +19,14 @@ yarn dev
 ```bash
 yarn test
 ```
+
+## Code Quality
+
+```bash
+yarn lint
+```
+
+## Docker
+```bash
+docker run tatui0108/express-typescript-tweeter
+```
