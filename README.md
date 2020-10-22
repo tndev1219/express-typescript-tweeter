@@ -5,7 +5,7 @@
 ## Installation
 
 ```bash
-yarn install
+yarn
 ```
 
 ## Running
@@ -28,5 +28,5 @@ yarn lint
 
 ## Docker
 ```bash
-docker run tatui0108/express-typescript-tweeter
+docker run -p 4000:4000 -d tatui0108/express-typescript-tweeter
 ```
